@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Notebooks": ["notebooks"],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
+  },
+  "Moar docs": {
+    "First Moar": ["doc4", "doc5"]
+  }
+}
